@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class Task2 {
+public class ShoppingCart {
     static void main(String[] args) {
 
         // SHOPPING CART PROGRAM
